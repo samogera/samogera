@@ -55,7 +55,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samogera&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=samogera&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samogera&theme=dark&show_icons=true)
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
