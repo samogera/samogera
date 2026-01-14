@@ -23,21 +23,21 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-I am a **Builder** at heart based in Nairobi, Kenya.
+I am a **Builder** based in Nairobi, Kenya.
 
 My passion lies in engineering end-to-end digital ecosystems that address the unique infrastructure challenges of the African continent. I don't just write code; I design full-scale systems that bridge the gap between complex operational problems and seamless user utility.
 
-- 🔭 **My Mission:** To create technology that works where it is needed most. Whether it is modernizing agricultural supply chains, democratizing energy access, or optimizing business operations, I focus on building architectures that are resilient, scalable, and capable of solving the hard problems we face daily.
+- **My Mission:** To create technology that works where it is needed most. Whether it is modernizing agricultural supply chains, democratizing energy access, or optimizing business operations, I focus on building architectures that are resilient, scalable, and capable of solving the hard problems we face daily.
 
-- ⚡ **Philosophy:** Technology is only as powerful as the solution it delivers. I focus on logic, efficiency, and building tools that create tangible impact on the ground.
+- **Philosophy:** Technology is only as powerful as the solution it delivers. I focus on logic, efficiency, and building tools that create tangible impact on the ground.
 
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/samuelogera/) or via my [Portfolio](https://ogera.is-a.dev/).
+- **Reach me:** [LinkedIn](https://www.linkedin.com/in/samuelogera/) or via my [Portfolio](https://ogera.is-a.dev/).
 
 ---
 
-### 🛠️ The Tech Stack
+### The Tech Stack
 
 **Backend & Architecture**
 <div align="left">
@@ -69,5 +69,5 @@ My passion lies in engineering end-to-end digital ecosystems that address the un
 
 ---
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
